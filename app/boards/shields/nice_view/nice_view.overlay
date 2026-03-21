@@ -13,7 +13,7 @@
         width = <160>;
         height = <68>;
         serial-vcom-inversion;
-        serial-vcom-interval = <33>;
+        serial-vcom-interval = <17>;
     };
 };
 
